@@ -7,4 +7,7 @@ fun main() {
 
     //Code dari Reynold
     println("Hello !")
+
+    //Code from Muhammad Al Faisal
+    println("Happy codding guys!")
 }
